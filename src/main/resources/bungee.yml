@@ -1,0 +1,3 @@
+name: SeasonmcBroadcast
+version: '${project.version}'
+main: me.panda19.seasonmcbroadcast.SeasonmcBroadcast
